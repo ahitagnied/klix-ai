@@ -5,6 +5,10 @@
 
 Klix is a real-time AI voice agent evaluation system that transcribes calls, applies predefined feedback criteria, and accelerates bug detection. Inspired by Fixa’s (YC F24) approach to performance analysis, Klix streamlines how you monitor and refine voice-based user interactions.
 
+<p align="center">
+  <img src="assets/pipeline.png" alt="Alt text" style="width: 80%; border-radius: 16px; display: block;" />
+</p>
+
 ## Features
 
 *   **Real-time Transcription:** Transcribes calls in real-time using OpenAI's Whisper API.
