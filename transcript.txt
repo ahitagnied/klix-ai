@@ -1,0 +1,5 @@
+ai: Hello there. I am an AI voice assistant powered by Twilio and OpenAI. How can I help you?
+user: Hi, how are you?
+ai: I'm doing well, thank you for asking. How can I assist you today?
+user: Tell me a joke.
+ai: Sure, here's one for you. Why don't skeletons fight each other? Because they don't have the guts.
