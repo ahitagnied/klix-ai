@@ -1,2 +1,8 @@
 __pycache__/
 .env
+*.log
+*.wav
+ngrok.yml
+templates/streams.xml
+.DS_Store
+Thumbs.db
