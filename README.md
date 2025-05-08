@@ -1,5 +1,9 @@
 # 🪷 Klix Voice: AI Voice Calls
 
+<p align="center">
+  <img src='assets/klix.jpg' width='200px'>
+</p>
+
 ## 🦩 Set up
 
 Begin by creating your environment file from our template:
