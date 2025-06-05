@@ -2,9 +2,16 @@
 <div align="center">
   <img alt="klix logo" width="250px" height="auto" src="/assets/klix.jpg">
 </div>
-</h1>
+<div align="center">
 
 [![Klix AI](https://img.shields.io/badge/Klix-AI-blue)](https://klix-ai.com)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-00a393.svg)](https://fastapi.tiangolo.com/)
+[![Twilio](https://img.shields.io/badge/Twilio-Voice-red.svg)](https://www.twilio.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+</div>
+</h1>
 
 klix is a real time system that can be used to initiate a call from an AI agent to a predefined phone number.
 
@@ -13,10 +20,10 @@ it uses stt --> llm --> tts to analyse incoming audio, prepare a reply using an 
 under the hood, this package uses:
 
 - [pipecat](https://github.com/pipecat-ai/pipecat) for the agent
-- cartesia for tts
-- deepgram for transcription
-- openai for the evaluator
-- twillio to initiate calls
+- [cartesia](https://cartesia.ai/) for tts
+- [deepgram](https://deepgram.com/) for transcription
+- [openai](https://openai.com/) for the evaluator
+- [twilio](https://www.twilio.com/) to initiate calls
 
 ## quick start
 
